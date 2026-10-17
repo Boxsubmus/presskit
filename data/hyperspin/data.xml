@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Hyperspin</title>
+  <release-date>2027</release-date>
+  <website>https://hyperspingame.com</website>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/4746250/Hyperspin/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <value>Free</value>
+    </price>
+  </prices>
+
+  <description>
+    Hyperspin is an experimental rhythm game where you control a circle that spins on a circle, and you tap circles. There are lots of circles.
+  </description>
+
+  <!-- Or multiple blocks: -->
+  <histories>
+    <history>
+      <header>Inspirations</header>
+      <text>
+        Hyperspin was inspired by Taiko no Tatsujin, osu!, Soundodger, and the Rhythm Heaven series!
+        Ever since Starpelly was a mere child, he always wanted to create his own rhythm game inspired by the ones he grew up with.
+      </text>
+    </history>
+    <history>
+      <header>Development</header>
+      <text>
+        Hyperspin entered production in mid-2025, sparked by a dream Starpelly had the night before. He began in Unity, but found it too slow and unreliable for what he had in mind.
+        Rather than compromise, he built a new game engine from scratch called "Trinket," which still powers Hyperspin today.
+      </text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Mods to make the game harder, easier, or more interesting</feature>
+    <feature>Use a versatile level editor to create the maps of your dreams</feature>
+    <feature>Choose between mouse or *almost* any button on your keyboard that suits your playstyle</feature>
+    <feature>Develop your skills using practice mode</feature>
+    <feature>Built from scratch in a custom game engine to support a low-latency and buttery-smooth experience</feature>
+    <feature>Free!</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Gameplay Video #1</name>
+      <youtube>UmdNHmWaUqw</youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      4746250
+    </steam>
+    <itch>
+      4136089
+    </itch>
+  </widgets>
+
+  <additionals>
+    <additional>
+      <title>Hyperspin Forums</title>
+      <description>Official community hub for the game. Players can share their own custom beatmaps here.</description>
+      <link>https://hyperspingame.com</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Starpelly</person>
+      <role>Director/Programmer/Designer, Boxsubmus</role>
+
+      <website>https://starpelly.com</website>
+    </credit>
+    <credit>
+      <person>Allyway</person>
+      <role>Artist, Boxsubmus</role>
+    </credit>
+    <credit>
+      <person>Mudstep</person>
+      <role>Musician, Freelancer</role>
+      <website>https://mudstepmusic.bandcamp.com</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+      <mail>pelly@boxsubmus.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter/X</name>
+      <mail>https://x.com/boxsubmus</mail>
+    </contact>
+  </contacts>
+</product>
