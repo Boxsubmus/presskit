@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Boxsubmus</title>
+  <based-in></based-in>
+  <founding-date>June 12, 2021</founding-date>
+  <website>https://boxsubmus.com</website>
+  <press-contact>
+    support@boxsubmus.com
+  </press-contact>
+
+  <socials>
+    <social>
+      <name>Twitter/X</name>
+      <link>https://x.com/boxsubmus</link>
+    </social>
+    <social>
+      <name>Bluesky</name>
+      <link>https://bsky.app/profile/boxsubmus.com</link>
+    </social>
+  </socials>
+
+  <description>
+    Boxsubmus is a small and independent video game studio dedicated to developing quality software and video games.
+  </description>
+
+  <histories>
+    <history>
+      <header>Before</header>
+      <text>
+        Starpelly and Allyway each spent years pursuing their own creative work before joining forces to found Boxsubmus in June 2021.
+        Starpelly created and led development on Heaven Studio for roughly two years before retiring away from the project,
+        while Allyway has been drawing consistently for nearly eight years.
+        Together, they set out to combine their talents in service of a noble goal: their secret dream game.
+        It hasn't materialized yet, but who knows what the future holds.
+      </text>
+    </history>
+  </histories>
+
+  <trailers>
+    <trailer>
+      <name>Hyperspin Gameplay</name>
+      <youtube>UmdNHmWaUqw</youtube>
+    </trailer>
+  </trailers>
+
+  <credits>
+    <credit>
+      <person>Starpelly</person>
+      <role>Programmer, Boxsubmus</role>
+
+      <website>https://starpelly.com</website>
+    </credit>
+    <credit>
+      <person>Allyway</person>
+      <role>Artist, Boxsubmus</role>
+    </credit>
+    <credit>
+      <person>Mudstep</person>
+      <role>Musician, Occasional Freelancer</role>
+      <website>https://mudstepmusic.bandcamp.com</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>General Inquiries</name>
+      <mail>support@boxsubmus.com</mail>
+    </contact>
+    <contact>
+      <name>Company Representative</name>
+      <mail>pelly@boxsubmus.com</mail>
+    </contact>
+  </contacts>
+</company>
